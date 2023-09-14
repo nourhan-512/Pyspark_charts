@@ -1,0 +1,1051 @@
+[{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e726"
+  },
+  "title": "Mens Cotton Jacket",
+  "slug": "mens-cotton-jacket",
+  "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+  "quantity": 12,
+  "sold": 83,
+  "price": 55.99,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b7a02868424f7846ce1d6f"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T12:40:27.285Z"
+  },
+  "__v": 0,
+  "ratingsAverage": 3,
+  "ratingsQuantity": 1
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e727"
+  },
+  "title": "Mens Casual Slim Fit",
+  "slug": "mens-casual-slim-fit",
+  "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+  "quantity": 100,
+  "sold": 101,
+  "price": 15.99,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a9d869d54640ca3d7293"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T20:17:22.404Z"
+  },
+  "__v": 0,
+  "ratingsAverage": 4,
+  "ratingsQuantity": 1
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e728"
+  },
+  "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+  "slug": "john-hardy-women's-legends-naga-gold-and-silver-dragon-station-chain-bracelet",
+  "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+  "quantity": 100,
+  "sold": 14,
+  "price": 695,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a9d869d54640ca3d7293"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e729"
+  },
+  "title": "Solid Gold Petite Micropave",
+  "slug": "solid-gold-petite-micropave",
+  "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+  "quantity": 75,
+  "sold": 69,
+  "price": 168,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a8dd4bad61f4cc4a98ea"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e724"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+  "slug": "fjallraven-foldsack-no.-1-backpack-fits-15-laptops",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a9d869d54640ca3d7293"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e725"
+  },
+  "title": "Mens Casual Premium Slim Fit T-Shirts",
+  "slug": "mens-casual-premium-slim-fit-t-shirts",
+  "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+  "quantity": 20,
+  "sold": 30,
+  "price": 22.3,
+  "priceAfterDiscount": 20,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a9d869d54640ca3d7293"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e72c"
+  },
+  "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+  "slug": "wd-2tb-elements-portable-external-hard-drive-usb-3.0",
+  "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+  "quantity": 102,
+  "sold": 51,
+  "price": 64,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a8dd4bad61f4cc4a98ea"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e72d"
+  },
+  "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+  "slug": "sandisk-ssd-plus-1tb-internal-ssd-sata-iii-6-gbs",
+  "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+  "quantity": 104,
+  "sold": 9,
+  "price": 109,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a8dd4bad61f4cc4a98ea"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e72a"
+  },
+  "title": "White Gold Plated Princess",
+  "slug": "white-gold-plated-princess",
+  "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+  "quantity": 33,
+  "sold": 99,
+  "price": 9.99,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a8dd4bad61f4cc4a98ea"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64beba5738189e96e6b9e72b"
+  },
+  "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+  "slug": "pierced-owl-rose-gold-plated-stainless-steel-double",
+  "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+  "quantity": 90,
+  "sold": 32,
+  "price": 10.99,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "61b2a8dd4bad61f4cc4a98ea"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-24T17:52:23.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c6a53e6a7f9a3f8c8af948"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack",
+  "slug": "fjallraven-foldsack-no.-1-backpack",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-3d7eeb44-9b26-4fc8-8179-1cf7f96dce28-1690740029792-cover.jpeg",
+  "image": [
+    "product-eeaab420-c415-449d-ba5d-616233a9133f-1690740029982-1.jpeg",
+    "product-f9ffe5f1-4f6f-4d71-afcf-454dd7bb5cb6-1690740029984-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-30T18:00:30.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-30T18:00:30.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c6a5bee01b448d3996b5e4"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack1",
+  "slug": "fjallraven-foldsack-no.-1-backpack1",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-45d93fa3-e000-4465-b9d0-997326f640ad-1690740157999-cover.jpeg",
+  "image": [
+    "product-761ca743-8f26-4d0e-95c3-b295e17f543b-1690740158205-1.jpeg",
+    "product-d928c674-010f-4a68-b12b-ab48cd77ef8f-1690740158206-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-30T18:02:38.635Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-30T18:02:38.635Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c6a602cd6b09fbb42ef318"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack12",
+  "slug": "fjallraven-foldsack-no.-1-backpack12",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-bc2e6855-5cd6-4bce-b7e5-2b7808390fed-1690740226220-cover.jpeg",
+  "image": [
+    "product-26668e7f-6502-47f9-834a-96cb8ae18d6d-1690740226389-1.jpeg",
+    "product-ad6ccabb-3a0c-474a-847f-c53c85f2740a-1690740226390-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-30T18:03:46.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-30T18:03:46.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c6a62a9d274be72675af05"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack121",
+  "slug": "fjallraven-foldsack-no.-1-backpack121",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-aa3358cb-0a3a-4d46-9d8e-bf434bc15e21-1690740265831-cover.jpeg",
+  "image": [
+    "product-1f3b7a5a-97d4-4a33-9278-453c9f858365-1690740265990-1.jpeg",
+    "product-2b0e4cca-8d8d-4c19-80f8-84045b179d79-1690740265990-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-30T18:04:26.473Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-30T18:04:26.473Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c6a7229ace4788eff5557a"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack1212",
+  "slug": "fjallraven-foldsack-no.-1-backpack1212",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-c0525712-7d3a-4150-a330-b47da4418974-1690740513532-cover.jpeg",
+  "image": [
+    "product-ec9128d2-8827-4e33-a97c-970155234eab-1690740513697-1.jpeg",
+    "product-de458a7b-0773-40c8-a67d-291bd294803e-1690740513698-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-30T18:08:34.139Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-30T18:08:34.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64c6a8f3e40ac781aa388157"
+  },
+  "title": "Fjallraven - Foldsack No. 1 Backpack12123",
+  "slug": "fjallraven-foldsack-no.-1-backpack12123",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-4d527020-ea7f-4db8-94ba-0fce7c9aba70-1690740979004-cover.jpeg",
+  "image": [
+    "product-4fb5dbb6-ae25-41df-85d4-0a1f7dbeead0-1690740979205-1.jpeg",
+    "product-8d405e8f-27dd-4b6f-b82f-b960062b5ca7-1690740979206-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratimgquantity": 0,
+  "createdAt": {
+    "$date": "2023-07-30T18:16:19.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-30T18:16:19.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb80fc6834ff877aa8580d"
+  },
+  "title": "عسليه",
+  "slug": "aslyh",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-3ac75be9-619f-446c-b422-1642ebe93188-1693155579456-cover.jpeg",
+  "image": [
+    "product-41b26ef4-0d3c-4d47-9b7b-4d59c89054ad-1693155580271-1.jpeg",
+    "product-455e6943-f2ee-4ed8-bc8e-cd62e707f31e-1693155580272-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T16:59:40.662Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T16:59:40.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb81386834ff877aa85812"
+  },
+  "title": "aslia",
+  "slug": "aslia",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-59a9aa9c-c871-4e3f-9cfb-b7db53254fc5-1693155639107-cover.jpeg",
+  "image": [
+    "product-e37a51a4-64ae-400f-a754-9b2dd2c778a9-1693155639555-1.jpeg",
+    "product-2b8ff665-592c-47d9-b770-6932c51d6429-1693155639556-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:00:40.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:00:40.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb81f270319e730ffe8d54"
+  },
+  "title": "rtyuo",
+  "slug": "rtyuo",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-5daddfaa-35ec-4d61-b453-270f0bfefc74-1693155826181-cover.jpeg",
+  "image": [
+    "product-1a444622-87ca-49b2-baaf-5e2d82542dec-1693155826341-1.jpeg",
+    "product-af681a0f-e93b-4408-b043-8484c7cf5b0e-1693155826342-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:03:46.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:03:46.601Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb822c7d8a9dbed5953f8d"
+  },
+  "title": "rtyuos",
+  "slug": "rtyuos",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-aa321d69-2b7e-4b45-a2dc-51f5e4abea74-1693155884092-cover.jpeg",
+  "image": [
+    "product-8b263a64-f6ae-4f92-9d16-14578b7f1aaf-1693155884284-1.jpeg",
+    "product-f6cad9e4-dcfb-41ae-ba67-18d93860a1df-1693155884285-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:04:44.568Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:04:44.568Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb833a151e59bc0c9e3a0a"
+  },
+  "title": "addidas",
+  "slug": "addidas",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-6e9c48f4-e527-443e-8ec1-8c69ac1963b1-1693156153521-cover.jpeg",
+  "image": [
+    "product-3672bb6f-fbc5-4382-89fb-78e674f63000-1693156153746-1.jpeg",
+    "product-9481890d-ac90-491e-bb2b-209f15b83d73-1693156153749-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:09:14.195Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:09:14.195Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb842b87a0ab849fe0c34a"
+  },
+  "title": "addidass",
+  "slug": "addidass",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-17e1cd7e-188d-4a64-90e4-7ef65274ae16-1693156395021-cover.jpeg",
+  "image": [
+    "product-b4e19e28-65a5-4c43-ad07-18ea9366ecdd-1693156395188-1.jpeg",
+    "product-437c5011-5375-4b24-8ba5-3083bf79de09-1693156395189-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:13:15.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:13:15.633Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb850473217a47960f43b1"
+  },
+  "title": "addidass fgty",
+  "slug": "addidass-fgty",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-be2806fa-0936-4ed8-a594-5bba7f3fb27f-1693156612044-cover.jpeg",
+  "image": [
+    "product-1909e8e4-ac80-4677-a52d-95e55fd49339-1693156612302-2.jpeg",
+    "product-1e8da808-7541-4539-9300-808938515821-1693156612299-1.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:16:52.811Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:16:52.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb85379f4a9e2e2f3b6d5e"
+  },
+  "title": "addidass fgty erty",
+  "slug": "addidass-fgty-erty",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-b9b9677a-5f9f-47d9-b690-a576e5987f75-1693156662363-cover.jpeg",
+  "image": [
+    "product-f1b2a83e-a876-466e-afe2-84d1c71d70cc-1693156662661-1.jpeg",
+    "product-72b7fb85-5409-4b95-8e55-2d469ab6297b-1693156662662-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "user": {
+    "$oid": "64eb80e26834ff877aa85808"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-08-27T17:17:43.055Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T17:17:43.055Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ebaa69d93d83a76adca4bc"
+  },
+  "title": "addidass  nike erty",
+  "slug": "addidass-nike-erty",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-0e5f944e-9766-4885-9721-ab71fd109fdc-1693166184630-cover.jpeg",
+  "image": [
+    "product-9ff15b14-f071-4f52-95ee-03c04fd697cd-1693166185145-1.jpeg",
+    "product-736b5ab9-2bac-4c68-be6f-26c2e18825c4-1693166185149-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "user": {
+    "$oid": "64eb80e26834ff877aa85808"
+  },
+  "shop": {
+    "$oid": "64eba02797c42aaa7651fcb6"
+  },
+  "ratingsAverage": 2,
+  "ratingsQuantity": 1,
+  "createdAt": {
+    "$date": "2023-08-27T19:56:25.645Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T13:36:29.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ebb7db98d4faaabea2f053"
+  },
+  "title": "addidass  nike",
+  "slug": "addidass-nike",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-81f86e77-2194-42c8-b3c4-dd5df7432bd9-1693169626945-cover.jpeg",
+  "image": [
+    "product-970d273f-74bf-4ac9-a29e-878334e07d9d-1693169627145-1.jpeg",
+    "product-7c28243e-3e58-4344-81d0-bdba34e5adfb-1693169627148-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "user": {
+    "$oid": "64eb80e26834ff877aa85808"
+  },
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 2,
+  "ratingsQuantity": 1,
+  "createdAt": {
+    "$date": "2023-08-27T20:53:47.584Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T18:48:41.572Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ebba2d46ff4dbbba8e6c69"
+  },
+  "title": "nike",
+  "slug": "nike",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-8354e3a9-8155-42f3-9747-f36d68a28488-1693170220980-cover.jpeg",
+  "image": [
+    "product-904ac6d7-474a-41fb-84ec-87007d929c0e-1693170221190-1.jpeg",
+    "product-e3ae3767-515c-4513-a55a-8db69fffdc8e-1693170221191-2.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "user": {
+    "$oid": "64eb80e26834ff877aa85808"
+  },
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4,
+  "ratingsQuantity": 1,
+  "createdAt": {
+    "$date": "2023-08-27T21:03:41.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T18:47:08.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f5f3a65dbedafd70099efa"
+  },
+  "title": "versatchi nike",
+  "slug": "versatchi-nike",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.5,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "Screenshot 2023-01-22 000103.png",
+  "image": [],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T15:11:34.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T15:11:34.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f5f3f05dbedafd70099efd"
+  },
+  "title": "versatchi addidas nike",
+  "slug": "versatchi-addidas-nike",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.5,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "Screenshot 2023-01-22 000103.png",
+  "image": [],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T15:12:48.832Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T15:12:48.832Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f5f6c16bd641b3287257df"
+  },
+  "title": "versatchi nike versatchi",
+  "slug": "versatchi-nike-versatchi",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.5,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+  "image": [],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "user": {
+    "$oid": "64eb80e26834ff877aa85808"
+  },
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T15:24:49.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T15:24:49.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f5fafa0f3a987b3ee4b89b"
+  },
+  "title": "versatchi niket",
+  "slug": "versatchi-niket",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T15:42:50.552Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T15:42:50.552Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f5fb290f3a987b3ee4b8a4"
+  },
+  "title": "versatchi niket rt",
+  "slug": "versatchi-niket-rt",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "image": [],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T15:43:37.983Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T15:43:37.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f5ff7dafacdd00d972e393"
+  },
+  "title": "rtuiyfruielf",
+  "slug": "rtuiyfruielf",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "http://localhost:8000/products/product-8c1289ac-d0ae-4854-95d7-330bfd7cb993-1693844654629-cover.jpeg",
+  "image": [
+    "http://localhost:8000/products/http://localhost:8000/products/http://localhost:8000/products/product-223925a5-cd5e-488d-89fe-670f7387b7df-1693843325213-1.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T16:02:05.550Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T16:24:15.059Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64f5ffb1afacdd00d972e399"
+  },
+  "title": "versatchi niket rteqq",
+  "slug": "versatchi-niket-rteqq",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-1c740174-88aa-4166-9f8d-2e2e7fdad831-1693843376361-cover.jpeg",
+  "image": [
+    "product-45399c2b-48cf-4962-b719-199df7eb67fb-1693843376637-1.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T16:02:57.095Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T16:02:57.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f601518ece37309e59e2d8"
+  },
+  "title": "versatchi niket rteqqa",
+  "slug": "versatchi-niket-rteqqa",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-7e5fb655-e8e8-4082-9ad3-12767655e5ca-1693843792989-cover.jpeg",
+  "image": [
+    "product-034ff9ee-bff9-4217-a40f-857678731c85-1693843793138-1.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T16:09:53.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T16:09:53.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f604b98db0e160d5d3726b"
+  },
+  "title": "versatchi niket rteqqaq",
+  "slug": "versatchi-niket-rteqqaq",
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "quantity": 10,
+  "sold": 25,
+  "price": 109.95,
+  "priceAfterDiscount": 100,
+  "color": [],
+  "imagecover": "product-02ff7bce-0426-419d-adf6-82d5afdec800-1693844665007-cover.jpeg",
+  "image": [
+    "product-407a7027-7d6f-46e7-8723-92fcb48e2842-1693844665145-1.jpeg"
+  ],
+  "category": {
+    "$oid": "64b14bea5b1bf27d4faf700b"
+  },
+  "subcategory": [],
+  "shop": {
+    "$oid": "64ebb7af98d4faaabea2f04b"
+  },
+  "ratingsAverage": 4.3,
+  "ratingsQuantity": 20,
+  "createdAt": {
+    "$date": "2023-09-04T16:24:25.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T16:24:25.476Z"
+  },
+  "__v": 0
+}]
